@@ -10,7 +10,7 @@ When I'm not coding, I love exploring new technologies, staying up-to-date with 
 
 Skills:   HTML / CSS / JS / TS  / REACT / NEXT.JS / NODE / EXPRESS / MONGODB
 
-- 🌱 I’m currently learning Docker 
+- 🌱 I’m currently learning Docker and Aws
 - 👯 I’m looking to collaborate on open source project 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: sayedhasan019283@gmail.com 
